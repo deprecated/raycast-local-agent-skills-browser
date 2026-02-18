@@ -4,7 +4,7 @@
   "title": "Local Agent Skills Browser",
   "description": "Browse, search, and preview locally installed agent skills for Claude Code, Cursor, Codex, and 40+ AI coding agents",
   "icon": "icon.png",
-  "author": "deprecated (Daniel Edeling)",
+  "author": "deprecated",
   "repository": {
     "type": "git",
     "url": "https://github.com/deprecated/raycast-local-agent-skills-browser.git"
